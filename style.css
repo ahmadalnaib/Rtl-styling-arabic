@@ -1,0 +1,17 @@
+
+
+img {
+  width:30%;
+}
+
+
+.media {
+  display:flex;
+  margin:1rem;
+  padding: 1rem;
+}
+
+h2,p {
+  padding:0.40rem;
+  margin: 0.20rem;
+}
